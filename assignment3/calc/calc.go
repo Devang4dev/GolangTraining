@@ -5,7 +5,7 @@ import (
 	"math"
 )
 
-func Add(num1, num2 int) {
+func Add(num1, num2 float32) {
 
 	fmt.Println("addition =", num1+num2)
 
